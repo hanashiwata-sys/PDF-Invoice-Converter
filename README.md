@@ -14,7 +14,7 @@ PDF納品書をExcelへ変換するツールです。
 
 - pdfplumber
 - pandas
--openpyxl
+- openpyxl
 
 ## 実行方法
 
