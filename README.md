@@ -18,4 +18,4 @@ PDF納品書をExcelへ変換するツールです。
 
 ## 実行方法
 
-'''bash python pdf_invoice_to_excel
+'''bash python pdf_invoice_to_excel.py
